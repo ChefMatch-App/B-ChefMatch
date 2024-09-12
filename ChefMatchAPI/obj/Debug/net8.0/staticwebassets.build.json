@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Z6hhwvtri3q8NqFAzru9zGnnlnKvqSx1bcx/1ek6SyU=",
+  "Source": "ChefMatchAPI",
+  "BasePath": "_content/ChefMatchAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

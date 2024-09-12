@@ -1,0 +1,6 @@
+@ChefMatchAPI_HostAddress = http://localhost:5292
+
+GET {{ChefMatchAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
