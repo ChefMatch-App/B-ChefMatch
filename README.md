@@ -40,9 +40,9 @@ The class diagram includes key entities: User, Chef, Client, Delivery, Order, Pa
 
 1. Clone the repository: git clone <repository_url>
 
-2.Install dependencies:  npm install / pip install -r requirements.txt
+ 2. Install dependencies:  npm install / pip install -r requirements.txt
 
-3.Set up the database (migration instructions here)
+ 3. Set up the database (migration instructions here)
 
 4. Run the application: npm start / dotnet run
   
