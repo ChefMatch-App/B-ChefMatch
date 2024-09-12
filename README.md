@@ -55,6 +55,3 @@ Ensure that your `appsettings.json` is correctly set up for your environment. He
     "DefaultConnection": "YourConnectionStringHere"
   }
 }
-
- 
-
