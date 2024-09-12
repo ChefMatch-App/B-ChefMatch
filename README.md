@@ -39,8 +39,11 @@ The class diagram includes key entities: User, Chef, Client, Delivery, Order, Pa
 # Installation & Setup
 
 Clone the repository.
+
 Configure connection strings in appsettings.json for seamless database interaction.
+
 Run database migrations to initialize the data structure.
+
 Build and run the application.
 
 ## Configuration
