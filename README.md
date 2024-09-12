@@ -38,16 +38,20 @@ The class diagram includes key entities: User, Chef, Client, Delivery, Order, Pa
 
 # Installation & Setup
 
-1. Clone the repository: git clone <repository_url>
+Clone the repository.
+Configure connection strings in appsettings.json for seamless database interaction.
+Run database migrations to initialize the data structure.
+Build and run the application.
 
- 2. Install dependencies:  npm install / pip install -r requirements.txt
-
- 3. Set up the database (migration instructions here)
-
-4. Run the application: npm start / dotnet run
-  
-
-
+## Configuration
+Ensure that your `appsettings.json` is correctly set up for your environment. Here is an example:
+ 
+```json
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "YourConnectionStringHere"
+  }
+}
 
  
 
