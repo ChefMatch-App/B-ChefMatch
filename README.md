@@ -16,7 +16,7 @@ This is a web-based application for connecting clients with chefs, allowing user
 
 - Feedback & Reports: Clients can leave feedback, and kitchen inspections ensure that chefs maintain quality standards.
 
-  # Components
+# Components
 
 - User: Base class that is inherited by both chefs and clients.
   
