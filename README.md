@@ -32,3 +32,18 @@ This is a web-based application for connecting clients with chefs, allowing user
   
 - Payments: Facilitates client payments for orders.
 
+   # Class Diagram
+The class diagram includes key entities: User, Chef, Client, Delivery, Order, Payment, Kitchen Inspection, and Feedback, with their relationships and methods.
+
+
+# Installation & Setup
+1. Clone the repository: git clone <repository_url>
+2.Install dependencies:  npm install / pip install -r requirements.txt
+3.Set up the database (migration instructions here)
+4. Run the application: npm start / dotnet run
+
+
+
+
+ 
+
